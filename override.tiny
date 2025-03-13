@@ -1,0 +1,3 @@
+tiny	2	0	intermediary	named
+c	com/vicmatskiv/pointblank/Nameable	com/vicmatskiv/pointblank/Nameable
+	m	()Ljava/lang/String;	getName	getNameableName

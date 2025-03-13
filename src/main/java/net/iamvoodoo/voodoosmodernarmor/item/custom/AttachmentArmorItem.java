@@ -19,9 +19,10 @@ public class AttachmentArmorItem extends ArmorItem implements AttachmentHost, Na
         super(material, type, settings);
     }
 
+
     @Override
-    public String getName() {
-        return this.name;
+    public String getNameableName() {
+        return "";
     }
 
     @Override
